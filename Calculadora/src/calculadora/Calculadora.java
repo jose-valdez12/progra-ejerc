@@ -7,7 +7,7 @@ public class Calculadora {
      public static void main(String[] args) {
     
      
-     
+     //se crea un scanner para que el codigo pueda ejecutar las operaciones.
        System.out.println("***bienvenido***");
     
        

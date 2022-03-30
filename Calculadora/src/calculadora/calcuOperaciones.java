@@ -3,7 +3,7 @@ package calculadora;
 
 
 public class calcuOperaciones {
-   
+   //Declaramos las variables a utilizar en este codigo.
     public double raiz ;
     public double potencia;
     public double seno;
